@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+.exploration{
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: start;
+  margin-top: 185px;
+  margin-left: 30px;
+}
+
+h1{
+  color: #E1E1E6;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 125%;
+  font-style: normal;
+}
+
+p{
+  max-width: 650px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+  color: #E1E1E6;
+}

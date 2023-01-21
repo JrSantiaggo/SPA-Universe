@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  padding: 40px;
+  height: 100vh;
+  background-position: 100% 100%;
+  background-size: cover;
+
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 40px;
+  align-items: center;
+ 
+}
+
+a {
+  text-decoration: none;
+  color: #C4C4CC;
+  font-style: normal;
+  font-size: 21px;
+  
+}
+a:hover{
+  color: #ffff;
+}
+
+.currentPage{
+  color: white;
+  font-weight: bold;
+  font-size:  25px;
+}
+
+
+
+
